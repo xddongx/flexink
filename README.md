@@ -1,1 +1,1 @@
-# flexink
+# study-flexink
